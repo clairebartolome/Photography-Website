@@ -1,0 +1,23 @@
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# PyCharm
+.idea/
+
+# React
+node_modules/
+dist/
+
+# Environment variables
+.env
+.env.local
+
+# Database
+*.db
+*.sqlite3
+
+# Uploaded photographs
+backend/uploads/
